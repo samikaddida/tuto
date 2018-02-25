@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Bla bla cooool</h1>
-{{--{!!Lipsum::headers()->link()->ol()->html(5)!!}--}}
+<h1>Hello world !</h1>
+{!!Lipsum::headers()->link()->ol()->html(5)!!}
 </body>
 </html>
