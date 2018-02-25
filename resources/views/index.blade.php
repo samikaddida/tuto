@@ -9,6 +9,6 @@
 </head>
 <body>
 <h1>Bla bla cooool</h1>
-<!!{!!Lipsum::headers()->link()->ol()->html(5)!!}!!>
+{{--{!!Lipsum::headers()->link()->ol()->html(5)!!}--}}
 </body>
 </html>
